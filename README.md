@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20H_line%20Github&fontSize=50&animation=twinkling&text-color=_e2e3dd)
 <h3 align="center"><b>❤️저를 소개합니다.❤️</b></h3>
-<p align="center">👋안녕하세요. UI/UX Designer를 꿈꾸는 나현선입니다..\</p>
+<p align="center">👋안녕하세요. UI/UX Designer를 꿈꾸는 나현선입니다.</p>
 <p align="center">저의 주스킬은 HTML5,CSS3입니다.</p>
 
 <br>
