@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20H_line%20Github&fontSize=50&animation=twinkling&text-color=e2e3dd)
 <h3 align="center"><b>❤️About me❤️</b></h3>
-<p align="center"><a href="https://nahyeonsun.github.io/personalv2/" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
-
+<p align="center"><a href="https://nahyeonsun.github.io/personalv2/" target="_blank"><img src="[https://img.shields.io/badge/homepage]-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
+[![Static Badge]()
+]()
 <p align="center">Hi There! I'm a Web Designer.</p>
 <p align="center"> My main skills are HTML5,CSS3.</p>
 <p align="center">I'm a UI/UX designer who continues to grow in the future. 🔥</p> 
