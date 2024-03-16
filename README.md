@@ -10,7 +10,7 @@
 <br>
 
 <h3 align="center">❤️ I like...</h3>
-<p align="center">💪Exercise,&nbsp;&nbsp;🖥Youtube,&nbsp;&nbsp;💻design,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;</p>
+<p align="center">💪Exercise,&nbsp;&nbsp;🖥Youtube,&nbsp;&nbsp;🖍 Design,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;</p>
 
 <br>
 <br>
