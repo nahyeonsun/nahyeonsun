@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=_hexcodeDEDFD9E&height=200&section=header&text=Welcome%20to%20H_line%20Github&fontSize=50&animation=twinkling&text-color=_e2e3dd)
+![header](https://capsule-render.vercel.app/api?type=waving&color=_hexcode=DEDFD9E&height=200&section=header&text=Welcome%20to%20H_line%20Github&fontSize=50&animation=twinkling&text-color=_e2e3dd)
 <h3 align="center"><b>❤️About me❤️</b></h3>
 <p align="center"><a href="https://nahyeonsun.github.io/personalv2/" target="_blank"><img src="[https://img.shields.io/badge/homepage]-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
 
