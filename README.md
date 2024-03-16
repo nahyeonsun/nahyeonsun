@@ -40,6 +40,6 @@ export const themes = {
     bg_color: "fffefe",
   }
 };
-export default themes;
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahyeonsun&theme=radical&layout=compact&)](https://github.com/nahyeonsun?/github-readme-stats) 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=_e2e3dd&height=100&section=footer)
