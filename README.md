@@ -7,13 +7,13 @@
 
 <br>
 
-<h3 align="center">❤️ I like...</h3>
+<h3 align="center">❤️제가 좋아하는 것은요.</h3>
 <p align="center">💪Exercise,&nbsp;&nbsp;🖥Youtube,&nbsp;&nbsp;🖍 Design,&nbsp;&nbsp;</p>
 
 <br>
 <br>
 
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<h3 align="center"><b>🛠 제가 사용할 수 있는 기술입니다. 🛠</b></h3>
 </br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/> 
