@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=_hexcode=DEDFD9E&height=200&section=header&text=Welcome%20to%20H_line%20Github&fontSize=50&animation=twinkling&text-color=_e2e3dd)
-<h3 align="center"><b>❤️About me❤️</b></h3>
+<h3 align="center"><b>❤️저를 소개합니다.❤️</b></h3>
 <p align="center"><a href="https://nahyeonsun.github.io/personalv2/" target="_blank"><img src="[https://img.shields.io/badge/homepage]-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
 
-<p align="center">👋Hi There! I'm a UI/UX Designer.</p>
-<p align="center"> My main skills are HTML5,CSS3.</p>
+<p align="center">👋안녕하세요. UI/UX Designer를 꿈꾸는 나현선입니다..</p>
+<p align="center">저의 주스킬은 HTML5,CSS3입니다.</p>
 <p align="center">I'm a UI/UX designer who continues to grow in the future. 🔥</p> 
 <p align="center">Please look forward to my growth. Bye~</p>
 
@@ -18,14 +18,10 @@
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
- css3 html5 illustrator ionic javascript nodejs photoshop sass vuejs 
-<img src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=HTML&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
+<p 정렬="왼쪽"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.Vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.Vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p> 
 
 <br>
 <br>
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahyeonsun&theme=radical&layout=compact&)](https://github.com/nahyeonsun?/github-readme-stats) 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=_e2e3dd&height=100&section=footer)
