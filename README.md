@@ -1,7 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=_hexcode=DEDFD9E&height=200&section=header&text=Welcome%20to%20H_line%20Github&fontSize=50&animation=twinkling&text-color=_e2e3dd)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20H_line%20Github&fontSize=50&animation=twinkling&text-color=_e2e3dd)
 <h3 align="center"><b>❤️저를 소개합니다.❤️</b></h3>
-<p align="center"><a href="https://nahyeonsun.github.io/personalv2/" target="_blank"><img src="[https://img.shields.io/badge/homepage]-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
-
 <p align="center">👋안녕하세요. UI/UX Designer를 꿈꾸는 나현선입니다..\</p>
 <p align="center">저의 주스킬은 HTML5,CSS3입니다.</p>
 
@@ -28,4 +26,4 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahyeonsun&theme=radical&layout=compact&)](https://github.com/nahyeonsun?/github-readme-stats) 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=_e2e3dd&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=auto&height=100&section=footer)
